@@ -20,32 +20,26 @@
 
 ## 🧠 About Me
 
-```python
-class DayachandPrajapat:
-    def __init__(self):
-        self.name       = "Dayachand Prajapat"
-        self.location   = "Jaipur, Rajasthan, India 🇮🇳"
-        self.role       = "AI Developer & ML Engineer"
-        self.fun_fact   = "I'm also a Mimicry Artist ⚡"
-        self.email      = "dharmsinghp223@gmail.com"
+<table>
+  <tr>
 
-    @property
-    def currently_learning(self):
-        return ["Cloud AI", "LangGraph", "LangChain", "Agentic AI"]
+**👋 Hi, I'm Dayachand Prajapat**
+An AI Developer from Jaipur, Rajasthan, India 🇮🇳, passionate about building intelligent systems — from classical ML to production-grade Agentic AI pipelines.
 
-    @property
-    def looking_to_collaborate(self):
-        return ["RAG-based Projects", "Agentic AI Systems", "LLM Applications"]
+> *Fun fact: I'm also a Mimicry Artist ⚡*
 
-    @property
-    def ask_me_about(self):
-        return ["Python", "Machine Learning", "Deep Learning", "GenAI"]
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🚀")
+| | |
+|--|--|
+| 🌱 Learning | Cloud AI · LangGraph · LangChain |
+| 👯 Collaborate | RAG-based projects |
+| 🤝 Exploring | Agentic AI systems |
+| 💬 Ask me | Python · ML · GenAI |
+| 📫 Email | dharmsinghp223@gmail.com |
 
-me = DayachandPrajapat()
-me.say_hi()
+    </td>
+  </tr>
+</table>
 ```
 
 ---
