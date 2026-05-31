@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayachand%20Prajapat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayachand%20Prajapat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer&descAlignY=62&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+🤖;RAG+%7C+Agentic+AI+%7C+LLMs+%7C+MLOps;From+Jaipur%2C+Rajasthan%2C+India+🇮🇳)](https://git.io/typing-svg)
 
@@ -37,10 +37,6 @@ An AI Developer from Jaipur, Rajasthan, India 🇮🇳, passionate about buildin
 | 💬 Ask me | Python · ML · GenAI |
 | 📫 Email | dharmsinghp223@gmail.com |
 
-    </td>
-  </tr>
-</table>
-```
 
 ---
 
